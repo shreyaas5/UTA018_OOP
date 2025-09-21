@@ -1,3 +1,13 @@
+// Design a C++ program to demonstrate multilevel inheritance using the
+// following classes: Class Company (Base Class) with attributes:
+// company_name and location. Class Team (Intermediate Class): Inherits
+// from Company and adds attributes: team_name and project. Class
+// Developer (Derived Class): Inherits from Team and adds attributes:
+// developer_name and programming_language. Use a parameterized
+// constructors to initialize all the class attributes. Create an object of
+// Developer, and display details from all the classes: Company, Team, and
+// Developer.
+
 #include <iostream>
 using namespace std;
 
